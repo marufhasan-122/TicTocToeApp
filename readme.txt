@@ -1,44 +1,28 @@
 
-FREE APP
+# Tic-Tac-Toe Web App
 
-Created by WebIntoApp.com on Saturday 19th of July 2025 06:35:36 AM.
+A fully responsive, mobile-friendly **Tic-Tac-Toe** game built using **HTML, CSS, and vanilla JavaScript**. This web app supports two-player mode (X vs O), win/draw detection, and a dynamic end screen with a “New Game” option.
 
-Release APK & App Bundle (AAB) ready to be submitted to Google Play Store 
-and to any other APK / AAB store over the internet.
+---
 
--------------------------------------
-App ID:			842769
-App Key:		CZRUIKtVtsFtlBwQzVKOOSQbNfBtdQol
-App Name:		TiicToocTooe
-App Version:	1.0
-Package:		com.mycompany.tiictooctooe
-Mode:			Free App
--------------------------------------
+## 🎯 Features
 
-Your free app is ready, you can now publish it to the 
-google play store and to any apk app store on the internet.
+- 🎨 Linear gradient background with clean UI
+- 📱 Mobile responsive design
+- 👥 Two-player mode
+- 🏆 Win and draw detection
+- 🧠 Intelligent end screen with result display
+- 🔁 “New Game” and “Reset” functionality
+- ⚡ Fast and lightweight (no frameworks or libraries)
 
--------------------------------------
-Please note, your app is under a FREE mode, you can always 
-convert it to your own dedicated and branded mobile app for 
-Android and iOS with all the premium features at:
+---
 
-https://webintoapp.com/author/apps/842769/edit?cmd=app-switcher
+## 🚀 Demo
 
--------------------------------------
-Here are some useful links:
--------------------------------------
+**Live Preview (GitHub Pages):**  
+➡️ _[https://marufhasan-122.github.io/TicTocToeApp](https://marufhasan-122.github.io/TicTocToeApp)_ *(if Pages is enabled)*
 
-You can edit your app at:
-https://webintoapp.com/author/apps
+---
 
-Get installs statistics at:
-https://webintoapp.com/author/stats?appid=842769
+## 📂 File Structure
 
-The Author Area:
-https://webintoapp.com/author/dashboard
-
--------------------------------------
-WebIntoApp.com Team.
-https://www.webintoapp.com
--------------------------------------
